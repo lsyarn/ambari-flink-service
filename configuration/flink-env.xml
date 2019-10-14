@@ -113,7 +113,7 @@ state.backend: jobmanager
 # via keys 'fs.hdfs.hdfsdefault' and 'fs.hdfs.hdfssite'.
 #
 # fs.hdfs.hadoopconf: /path/to/hadoop/conf/
-env.java.home: /usr/jdk64/jdk1.8.0_77/jre
+env.java.home: /usr/java/jdk1.8.0_221-amd64/jre
 taskmanager.memory.fraction: 0.6
 env.java.opts: -XX:+UseG1GC
   </value>
